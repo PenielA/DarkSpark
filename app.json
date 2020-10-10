@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "dark-spark",
   "displayName": "dark-spark",
   "expo": {
@@ -8,5 +9,30 @@
     "assetBundlePatterns": [
       "**/*"
     ]
+=======
+  "expo": {
+    "name": "DarkSpark",
+    "slug": "DarkSpark",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+>>>>>>> aaa7321de7cb52b423e7f2dbd5021742f63d75f2
   }
 }
