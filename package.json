@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "main": "index.js",
   "scripts": {
     "android": "react-native run-android",
@@ -32,14 +33,16 @@
     "preset": "react-native"
 =======
   "main": "node_modules/expo/AppEntry.js",
+=======
+  "name": "dark-spark",
+  "version": "0.0.0",
+  "private": true,
+>>>>>>> e800b683dd64af20412fcc033feb1fe9dddf2110
   "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web",
-    "eject": "expo eject"
+    "start": "DEBUG=dark-spark:* node ./bin/www"
   },
   "dependencies": {
+<<<<<<< HEAD
     "expo": "~39.0.2",
     "expo-status-bar": "~1.0.2",
     "react": "16.13.1",
@@ -52,4 +55,13 @@
 >>>>>>> aaa7321de7cb52b423e7f2dbd5021742f63d75f2
   },
   "private": true
+=======
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1"
+  }
+>>>>>>> e800b683dd64af20412fcc033feb1fe9dddf2110
 }
