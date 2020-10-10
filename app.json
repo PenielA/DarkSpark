@@ -1,0 +1,12 @@
+{
+  "name": "dark-spark",
+  "displayName": "dark-spark",
+  "expo": {
+    "name": "dark-spark",
+    "slug": "dark-spark",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
